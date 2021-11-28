@@ -295,7 +295,6 @@ nav{ /* Ma nav regroupe les liens de la barre du menu (tout en haut de la page) 
     justify-content: center;
     padding: 10% 3%;
     background-color: var(--main-grey);
-    /*  visibility: hidden; pour l'animation au scroll à revoir*/
 }
 
 .mainBlockLeft img{
